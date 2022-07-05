@@ -1,0 +1,1 @@
+ino before running python codes. You should upload the extension arduino codes to your pinoo board.
